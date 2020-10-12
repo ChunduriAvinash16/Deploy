@@ -3,7 +3,7 @@ import React from 'react'
 export default function Body() {
     return (
         <div>
-            Portfolio
+            Good Morning
         </div>
     )
 }
