@@ -15,12 +15,13 @@
   }
 }
 
-.App-header {
+.header {
   background-color: #282c34;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  height: 20vh;;
   font-size: calc(10px + 2vmin);
   color: white;
 }
@@ -29,12 +30,16 @@
   height: 40vh;
   align-items: center;
   padding-top: 20vh;
+  font-size: calc(10px + 2vmin);
+
 }
-.App-footer{
+.footer{
   background-color: aqua;
   height: 20vh;
   align-items: center;
   padding-top: 2vh;
+  font-size: calc(10px + 2vmin);
+
 }
 .App-link {
   color: #61dafb;

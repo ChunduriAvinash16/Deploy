@@ -1,21 +1,17 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import Header from './Components/Header';
+import Body from './Components/Body';
+import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Header</h1>
-      </header>
+      <Header/>
       <div className="container">
-        <div className="row">
-          <h3>Portfolio</h3>
-        </div>
+        <Body/>
       </div>
-      <footer className="App-footer">
-        <h2>Footer</h2>
-      </footer>
+      <Footer/>
     </div>
   );
 }
