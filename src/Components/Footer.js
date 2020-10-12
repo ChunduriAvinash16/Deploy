@@ -14,7 +14,7 @@ function Footer() {
                     <div className="col-md-6" id="Media">
                         <a href="https://www.linkedin.com/in/avinash-chunduri-58a1bb1a0/" id="link"><LinkedInIcon/></a>
                         <a href="https://www.facebook.com/aviansh.chunduri/" id="link"><FacebookIcon/></a>
-                        <a href="#" id="link"><InstagramIcon/></a>
+                        <a href="https://github.com/ChunduriAvinash16" id="link"><InstagramIcon/></a>
                         <a href="https://github.com/ChunduriAvinash16" id="link"><GitHubIcon/></a>
                     </div>
                 </div>
